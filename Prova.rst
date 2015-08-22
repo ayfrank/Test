@@ -2,8 +2,8 @@
 Game
 ===== 
 
-'Here<http://wiki.teamliquid.net/starcraft/Portal:StarCraft>' is a complete guide to Starcraft including game mechanism, build units, economy management and other stuff.
+`Here 
+<http://www.python.org/>` is a complete guide to Starcraft including game mechanism, build units, economy management and other stuff.
 All you need to know about the game and more.
 
-External hyperlinks, like `Python 
-<http://www.python.org/>`_.
+
